@@ -243,5 +243,44 @@ li p.p_time_box {
   margin: 0;
   padding: 0;
 }
+/* =========== */
+/* sidebar-css */
+/* =========== */
+div.widget-wrap{
+  background: #512DA8;
+/*  padding :10px 0px; */  
+  padding-top :5px;
+}
+h3.widget-title{
+  margin: 5px 10px;
+  /*   border-bottom: solid 1px gray;  */
+  color: #FFF;
+}
+ul.category-list , ul.archive-list ,ul.recent-pst-list {
+  padding :0px;
+  list-style: none;
+}
+ul li.category-list-item , ul li.archive-list-item, ul li.recent-pst-list-item{
+  margin: 0px;
+  padding: 10px;
+  line-hight: 1;
+  color: #000;
+  background: #FFF;
+  border-bottom: solid 1px gray;
+  border-left: solid 1px gray;
+  border-right: solid 1px gray;
+}/*
+ul li.li_side_box_act {
+  margin: 0px;
+  padding: 10px;
 
+  line-hight: 1;
+  color: #FFF;
+  background: green ;
+}
+*/
+li p.p_side_box {
+  margin: 0;
+  padding: 0;
+}
 

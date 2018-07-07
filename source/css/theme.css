@@ -23,7 +23,7 @@ a li_a_menu:visited{
 }
 
 a:hover{
- color:white;
+/*   color:white; */
  padding-bottom:3px;
  border-bottom:2px solid white;
 }
