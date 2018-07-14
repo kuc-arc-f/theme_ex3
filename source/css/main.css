@@ -11,7 +11,8 @@ a:hover {
   margin: auto;
 }
 .entry-content p{
-  font-size : 18px;
+/* font-size : 18px; */  
+  font-size : 16px;
  }
 #div_img_main2 h1{
   margin: 0px;
